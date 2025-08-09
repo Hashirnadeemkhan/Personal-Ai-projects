@@ -112,7 +112,7 @@ Usage
             
         *   "Tell me about SFO"
             
-        *   "My name is John Smith"
+        *   "My name is Hashir Nadeem Khan"
             
     *   The assistant responds in a conversational, professional manner.
         
@@ -179,4 +179,5 @@ Contact
 -------
 
 For issues or inquiries, please contact \[[your-email@example.com](mailto:your-email@example.com)\] or open an issue on GitHub.
+
 
