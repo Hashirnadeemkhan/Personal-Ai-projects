@@ -120,18 +120,7 @@ Usage
     
 4.  **Error Handling**: The system provides clear error messages for invalid inputs (e.g., incorrect flight numbers or seat formats).
     
-
-Project Structure
------------------
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   airline-customer-service/  ├── app.py                  # Main Streamlit application  ├── agents.py               # Agent definitions and tools  ├── requirements.txt        # Python dependencies  ├── .env                    # Environment variables (not tracked)  ├── README.md               # Project documentation  └── in_memory_storage/      # (Optional) In-memory storage fallback   `
-
-Dependencies
-------------
-
-Listed in requirements.txt:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   streamlit  pymongo  requests  pydantic  python-dotenv   `
+  `
 
 Error Handling
 --------------
@@ -190,3 +179,4 @@ Contact
 -------
 
 For issues or inquiries, please contact \[[your-email@example.com](mailto:your-email@example.com)\] or open an issue on GitHub.
+
