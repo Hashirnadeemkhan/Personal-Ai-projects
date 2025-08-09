@@ -84,11 +84,15 @@ Installation
     
 2.  pip install -r requirements.txt
     
-3.  GEMINI\_API\_KEY=your\_gemini\_api\_keyAVIATION\_API\_KEY=your\_aviationstack\_api\_keyMONGODB\_URI=your\_mongodb\_connection\_string
+3.  GEMINI\_API\_KEY=your\_gemini\_api\_key
     
-4.  streamlit run app.py
+4.  AVIATION\_API\_KEY=your\_aviationstack\_api\_key
     
-5.  **Access the Application**:Open your browser to http://localhost:8501.
+5.  MONGODB\_URI=your\_mongodb\_connection\_string
+    
+6.  streamlit run app.py
+    
+7.  **Access the Application**:Open your browser to http://localhost:8501.
     
 
 Usage
@@ -128,11 +132,6 @@ Dependencies
 Listed in requirements.txt:
 
 Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   streamlit  pymongo  requests  pydantic  python-dotenv   `
-
-Environment Variables
----------------------
-
-VariableDescriptionRequiredGEMINI\_API\_KEYAPI key for Gemini AI modelYesAVIATION\_API\_KEYAPI key for AviationStackYesMONGODB\_URIMongoDB connection stringYes
 
 Error Handling
 --------------
